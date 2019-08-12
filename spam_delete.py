@@ -1,9 +1,5 @@
 #!/usr/bin/python3
 
-##	Author: daftbit
-##  spam_delete.py
-
-
 import imaplib,datetime,configparser,logging,os
 
 # function to handle imap connection
