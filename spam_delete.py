@@ -1,17 +1,8 @@
 #!/usr/bin/python3
-############################################################
-##	Author: C.Hull                                        ##
-##  spam_delete.py                                        ##
-############################################################
-############################################################
-##					Revision History					  ##
-##														  ##
-##	2016-09-13: Added datetime to log file name.          ##
-##			 	Added dir for logs		  				  ##
-##														  ##
-##														  ##	
-##														  ##
-############################################################
+
+##	Author: daftbit
+##  spam_delete.py
+
 
 import imaplib,datetime,configparser,logging,os
 
